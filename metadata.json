@@ -1,0 +1,6 @@
+{
+  "name": "Library QA System",
+  "description": "Rule-based college library document question answering system using dictionary Knowledge Base construction and weighted keyword scoring without NLP or RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
